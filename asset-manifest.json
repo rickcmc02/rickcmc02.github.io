@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cdf1b3ca.css",
-    "main.js": "/static/js/main.8e2a1c6d.js",
+    "main.css": "/static/css/main.88f1c038.css",
+    "main.js": "/static/js/main.a211f345.js",
     "static/media/NotoSansKR-Regular.otf": "/static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
     "static/media/jtbc_black.png": "/static/media/jtbc_black.6e77943bc2c7629da278.png",
     "static/media/kicpa_black.png": "/static/media/kicpa_black.f985fb1c5f8eb0757ab2.png",
@@ -25,11 +25,11 @@
     "static/media/catholic_jeonju.png": "/static/media/catholic_jeonju.aeff43bc26b27e993f9e.png",
     "static/media/materialui.png": "/static/media/materialui.5b2d8a0a309d9f7d47c1.png",
     "index.html": "/index.html",
-    "main.cdf1b3ca.css.map": "/static/css/main.cdf1b3ca.css.map",
-    "main.8e2a1c6d.js.map": "/static/js/main.8e2a1c6d.js.map"
+    "main.88f1c038.css.map": "/static/css/main.88f1c038.css.map",
+    "main.a211f345.js.map": "/static/js/main.a211f345.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdf1b3ca.css",
-    "static/js/main.8e2a1c6d.js"
+    "static/css/main.88f1c038.css",
+    "static/js/main.a211f345.js"
   ]
 }
