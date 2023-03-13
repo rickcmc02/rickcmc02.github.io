@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.88f1c038.css",
-    "main.js": "/static/js/main.6e852b2a.js",
+    "main.js": "/static/js/main.ec7fcdf0.js",
     "static/media/NotoSansKR-Regular.otf": "/static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
     "static/media/jtbc_black.png": "/static/media/jtbc_black.6e77943bc2c7629da278.png",
     "static/media/kicpa_black.png": "/static/media/kicpa_black.f985fb1c5f8eb0757ab2.png",
@@ -14,6 +14,7 @@
     "static/media/opic.png": "/static/media/opic.985c434ecda80551d17c.png",
     "static/media/ds2ai.jpeg": "/static/media/ds2ai.b38dc8310b7b5d62ab69.jpeg",
     "static/media/resembly.jpg": "/static/media/resembly.99e01a1dfcb3e4c3456c.jpg",
+    "static/media/pcstoa.png": "/static/media/pcstoa.89e02f6a71f8dd619f3b.png",
     "static/media/samil.png": "/static/media/samil.fb10229c9c112c09269c.png",
     "static/media/mktest.png": "/static/media/mktest.848623822b2734949ecf.png",
     "static/media/react.png": "/static/media/react.428839d4924b447d4d50.png",
@@ -24,13 +25,15 @@
     "static/media/cypress.webp": "/static/media/cypress.b3d5e336ef72c8e8c74a.webp",
     "static/media/catholic_jeonju.png": "/static/media/catholic_jeonju.aeff43bc26b27e993f9e.png",
     "static/media/materialui.png": "/static/media/materialui.5b2d8a0a309d9f7d47c1.png",
+    "static/media/redux.png": "/static/media/redux.b3b939c66aecf7d53967.png",
     "static/media/mcorporation.png": "/static/media/mcorporation.9fe00543ddf8a349ccda.png",
+    "static/media/pinia.svg": "/static/media/pinia.c49dc339dc6344ec8877a01113fa2d95.svg",
     "index.html": "/index.html",
     "main.88f1c038.css.map": "/static/css/main.88f1c038.css.map",
-    "main.6e852b2a.js.map": "/static/js/main.6e852b2a.js.map"
+    "main.ec7fcdf0.js.map": "/static/js/main.ec7fcdf0.js.map"
   },
   "entrypoints": [
     "static/css/main.88f1c038.css",
-    "static/js/main.6e852b2a.js"
+    "static/js/main.ec7fcdf0.js"
   ]
 }
